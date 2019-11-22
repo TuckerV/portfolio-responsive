@@ -1,0 +1,65 @@
+.body {
+}
+.background {
+    background-color: green;
+}
+.container {
+    max-width: 960px;
+    background-color: white;
+    border: 1px dotted red;
+}
+
+.row {
+    border: 1px dotted blue;
+}
+.navbar{
+    background: white !important;
+    padding:0;
+    border-bottom: 2px solid silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* margin-bottom: 10px; */
+}
+.middleContainer {
+    margin-top: 10px;
+}
+
+.navbar-brand {
+    color: white !important;
+    background: #4aaaa5;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.nav-link {
+    color: silver;  
+}
+
+.borderLeft {
+    border-left: 1px solid silver;  
+}
+
+.cornerTitle {
+    color: #4aaaa5;
+    padding: 25px;
+    border-bottom: 2px solid silver;
+}
+
+.img-fluid {
+    padding: 25px;
+    /* margin-right: 25px; */
+}
+p {
+    font-size: 14pt;
+    line-height: 1.5;
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 5%;
+    background-color: grey;
+    color: white;
+    border-top: 10px solid #4aaaa5;
+    /* margin-top: 100px; */
+}
